@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bmi-project-3c89e"
+  },
+  "targets": {
+    "bmi-project-3c89e": {
+      "hosting": {
+        "bmicalculator": [
+          "bodymass-16"
+        ]
+      }
+    }
+  }
+}
